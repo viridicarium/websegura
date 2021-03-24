@@ -5,19 +5,19 @@
     {
       "url": "www.albacete.es/",
       "name": "Ayuntamiento de Albacete",
-      "twitter": "",
+      "twitter": "AytoAlbacete",
       "tags": ["ayuntamientos"]
     },
     {
       "url": "albacete.sedipualba.es/default.aspx",
       "name": "Sede Electrónica Diputación Albacete",
-      "twitter": "",
+      "twitter": "dipualba",
       "tags": [""]
     },
     {
       "url": "www.upalbacete.es/",
       "name": "Universidad Popular Albacete",
-      "twitter": "",
+      "twitter": "UPenlaSaramago",
       "tags": [""]
     }
   ]
